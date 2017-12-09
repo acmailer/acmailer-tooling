@@ -1,0 +1,18 @@
+{
+    "name": "acelaya/zf-acmailer-tooling",
+    "description": "Console helper tools to work with ZF-AcMailer in development environments",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro Celaya",
+            "email": "alejandro@alejandrocelaya.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.0 || ^3.0 || ^2.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
