@@ -1,6 +1,6 @@
 # ZF-AcMailer tooling
 
-This console tool allows you to work with [ZF-AcMailer](https://github.com/acelaya/ZF-AcMailer) in development.
+This package provides tools to easily work with [ZF-AcMailer](https://github.com/acelaya/ZF-AcMailer) in development.
 
 [![Build Status](https://travis-ci.org/acelaya/zf-acmailer-tooling.svg?branch=master)](https://travis-ci.org/acelaya/zf-acmailer-tooling)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/acelaya/zf-acmailer-tooling/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/acelaya/zf-acmailer-tooling/?branch=master)
