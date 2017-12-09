@@ -12,8 +12,8 @@ Install it as a dev dependency with composer
 
 This package provides a console tool that can be used to run helper commands
 
-    vendor/bin/acmailer acmailer:<command>
+    vendor/bin/acmailer <command>
 
 #### Available commands
 
-* `acmailer:migrate-config`: Migrates configuration from the structure used in AcMailer v5/v6 to the structure used in v7
+* `config:migrate`: Migrates configuration from the structure used in AcMailer v5/v6 to the structure used in v7
